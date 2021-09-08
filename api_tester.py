@@ -1,10 +1,10 @@
 import fire
 import requests
 
-API_HOST = "http://localhost:8000"
+API_HOST = "https://cookie-stand-api-1.herokuapp.com/"
 RESOURCE_URI = "cookie_stands"
 USERNAME = "admin"
-PASSWORD = "admin"
+PASSWORD = "admin12345"
 
 
 class ApiTester:
